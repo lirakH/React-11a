@@ -1,0 +1,98 @@
+{
+    "PopularProducts": [
+        {
+            "id": 1,
+            "name": "Product 1",
+            "price": "510.99$",
+            "image": "https://picsum.photos/800/600?random=123",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Tablet"
+        },
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": "310.99$",
+            "image": "https://picsum.photos/800/600?random=124",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Samsung"
+        },
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": "1110.99$",
+            "image": "https://picsum.photos/800/600?random=125",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "iPhone"
+        }
+    ],
+
+    "ios": [
+        {
+            "id": 3,
+            "name": "Product 3",
+            "price": "1110.99$",
+            "image": "https://picsum.photos/800/600?random=125",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "iPhone"
+        },
+        {
+            "id": 4,
+            "name": "Product 4",
+            "price": "1110.99$",
+            "image": "https://picsum.photos/800/600?random=224",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "iPhone"
+        },
+        {
+            "id": 5,
+            "name": "Product 5",
+            "price": "1110.99$",
+            "image": "https://picsum.photos/800/600?random=227",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "iPhone"
+        },
+        {
+            "id": 6,
+            "name": "Product 6",
+            "price": "1110.99$",
+            "image": "https://picsum.photos/800/600?random=226",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "iPhone"
+        }
+    ],
+
+    "samsung": [
+        {
+            "id": 2,
+            "name": "Product 2",
+            "price": "310.99$",
+            "image": "https://picsum.photos/800/600?random=124",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Samsung"
+        },
+        {
+            "id": 7,
+            "name": "Product 7",
+            "price": "310.99$",
+            "image": "https://picsum.photos/800/600?random=325",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Samsung"
+        },
+        {
+            "id": 8,
+            "name": "Product 8",
+            "price": "310.99$",
+            "image": "https://picsum.photos/800/600?random=324",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Samsung"
+        },
+        {
+            "id": 9,
+            "name": "Product 9",
+            "price": "310.99$",
+            "image": "https://picsum.photos/800/600?random=326",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "category": "Samsung"
+        },
+    ]
+}
