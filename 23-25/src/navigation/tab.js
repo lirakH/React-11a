@@ -4,6 +4,7 @@ import IOS from "../screens/IOS";
 import Samsung from "../screens/Samsung";
 import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import StackNavigator from "./stack";
 
 const Tab = createBottomTabNavigator();
 
@@ -24,7 +25,7 @@ const BotomTab = () => {
         >
             <Tab.Screen
                 name="Home"
-                component={Home}
+                component={StackNavigator}
                 options={{
                     tabBarLabel: 'Home',
                     tabBarIcon: ({ color }) => (

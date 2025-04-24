@@ -3,7 +3,6 @@ import { ScrollView, View, Text, StyleSheet, FlatList } from "react-native";
 import data from '../data/products.json';
 import Item from '../components/item.js';
 
-
 class IOS extends React.Component {
 
   constructor(){
